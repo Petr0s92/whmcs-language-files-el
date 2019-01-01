@@ -1,4 +1,24 @@
 <?php
+/**
+ * WHMCS Admin Language File
+ * Greek (el)
+ *
+ * Please Note: These language files are overwritten during software updates
+ * and therefore editing of these files directly is not advised. Instead we
+ * recommend that you use overrides to customise the text displayed in a way
+ * which will be safely preserved through the upgrade process.
+ *
+ * For instructions on overrides, please visit:
+ *   http://docs.whmcs.com/Language_Overrides
+ *
+ * @package         WHMCS
+ * @author          WHMCS Limited <development@whmcs.com>
+ * @translate       BlackDragonGR - ZeusHost Internet Services
+ * @license         http://www.whmcs.com/license/ WHMCS Eula
+ * @version         7.6.1
+ * @link            https://github.com/BlackDragonGR/whmcs-language-files-el
+ * @contributors    https://github.com/BlackDragonGR/whmcs-language-files-el/graphs/contributors
+ */
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
@@ -4552,4 +4572,4 @@ $_ADMINLANG['marketConnect']['weebly']['faq']['q4'] = "How can I promote Weebly?
 $_ADMINLANG['marketConnect']['weebly']['faq']['a4'] = "We provide you with a pre-made landing page (<a href=\":href\" target=\"_blank\">preview</a>) and the ability to display promotions within the client area and shopping cart.";
 $_ADMINLANG['marketConnect']['weebly']['faq']['ftp'] = "FTP account creation is supported for cPanel only at this time.";
 $_ADMINLANG['maxmind']['missingUser'] = "You must set your user ID to use the latest MaxMind API. <a href=\"configfraud.php\" class=\"autoLinked\">Click here</a> to do it now.";
-
+?>
